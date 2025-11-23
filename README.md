@@ -110,7 +110,7 @@
 
 ## 1\. Clone the repository
 
-##    ```bash
+##    
 
 ##    git clone https://github.com/krishkumar1526/StudentManagementSystem.git
 
@@ -158,7 +158,7 @@
 
 
 
-## &nbsp;
+##  
 
 ## 🛠️ Technical Details
 
@@ -345,6 +345,30 @@
 ## 
 
 ## 
+
+## 📋 Design Documentation
+
+## 
+
+## System Design
+
+## \- \[System Architecture](docs/architecture.md)
+
+## \- \[Process Flow Diagrams](docs/process-flow.md)
+
+## \- \[UML Diagrams](docs/uml-diagrams.md)
+
+## 
+
+## Project Requirements
+
+## \- \[Project Statement](statement.md)
+
+
+
+
+
+
 
 ## 📄 License
 
