@@ -378,11 +378,11 @@
 
 ## 👨‍💻 Author
 
-## Krish Kumar
+## Dev Wandalkar
 
 ## 
 
-## GitHub: @krishkumar1526
+## GitHub: dev24bce10822-stack
 
 ## 
 
